@@ -32,7 +32,7 @@ export default function Navbar() {
               </svg>
             </a>
             {/* Telegram Icon */}
-            <a href="https://t.me/beantokensol" target="_blank" rel="noopener noreferrer" className="px-3">
+            <a href="https://t.me/boogiecult" target="_blank" rel="noopener noreferrer" className="px-3">
               <svg className="social-icon" width="30" height="30" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M9.994 15.474l-.397 1.897c.228.07 2.164-1.632 3.233-2.32l5.52-2.746c.96-.479-.215-.743-.478-.264l-6.92 4.64-2.963-1.343c-.96-.264-.96-.96.265-1.436l8.487-3.233c.96-.478 1.777.265 1.436 1.495l-1.436 5.25c-.478 1.495-.96 1.777-2.034 1.777s-2.056-.579-2.67-1.194l-.609-.609-1.436 1.078c-.215.164-.418.312-.609.312-.2 0-.4-.149-.4-.558 0-.4.2-.809.4-1.078l.809-1.495z"/>
               </svg>

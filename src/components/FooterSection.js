@@ -33,7 +33,7 @@ const FooterSection = () => {
               <a href="https://twitter.com/beantokensol" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="transition duration-300 ease-in-out hover:scale-125">
                 <span>Twitter</span> {/* Consider replacing <span> with an actual icon */}
               </a>
-              <a href="https://t.me/beantokensol" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="transition duration-300 ease-in-out hover:scale-125">
+              <a href="https://t.me/boogiecult" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="transition duration-300 ease-in-out hover:scale-125">
                 <span>Telegram</span> {/* Consider replacing <span> with an actual icon */}
               </a>
             </div>
