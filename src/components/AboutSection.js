@@ -20,15 +20,15 @@ export default function AboutSection() {
       <img src="https://i.ibb.co/PzDG22B/OKn-Cm-Zu-TZNkx-CR0r32q8f-Eo-NSst-F9-GAndc-H7gs0v9mhy-D3n1-Oery-K2-TKMho7s-U9-Xd-DHjv9o-KRHv-QJh-EJ8.gif" alt="Skull Animation" className="rounded-lg shadow-lg max-w-full h-auto align-middle border-none transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" />
         {/* Left Side Content */}
         <div className="font-stone"> {/* Apply the font to the entire div to affect all child text elements */}
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-fuchsia-600">$BOOGIE: Sol’s Shapeshifting Specter, Feasting on FOMO! </h2>
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 text-fuchsia-600">$BOOGIE: Base’s Shapeshifting Specter, Feasting on FOMO! </h2>
           <p className="text-base mb-4">
           For 27 long years, I’ve lurked in the shadowy depths of the Sol, dreaming of you, my dear degens. Oh, how I’ve craved your frantic clicks and clacks of trade. I’ve missed the taste of your delicious dread, the kind that only comes when the charts dip low, low, low...🎈🤡
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-3 text-fuchsia-600">What's that I see? Oh, Too afraid of missing out this meme token season? how disappointing. Is that all the fear you have? Come on, there must be more... let's play until we find the good stuff👻</h3>
           <ul className="list-disc list-inside space-y-2 mb-4">
-          <li>Hide if you must, scurry into the corners of cold wallets and forgotten passwords. The game has barely begun, and the Radium pools are just waiting to unleash me. When the markets wake, we'll see who’s left... dancing with $BOOGIE.🤣😈 </li>
+          <li>Hide if you must, scurry into the corners of cold wallets and forgotten passwords. The game has barely begun, and the Uniswap pools are just waiting to unleash me. When the markets wake, we'll see who’s left... dancing with $BOOGIE.🤣😈 </li>
             <li>Run and hide, little one </li>
-            <li>The game's just getting started Radium will free me</li>
+            <li>The game's just getting started Uniswap will free me</li>
           </ul>
           <img src="https://i.ibb.co/LZHn4g7/gif-beard.gif" alt="Wen Logo" className="mx-auto rounded-lg shadow-lg transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" />
         </div>
