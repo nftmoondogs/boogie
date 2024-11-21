@@ -26,9 +26,9 @@ export default function AboutSection() {
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-3 text-fuchsia-600">What's that I see? Oh, Too afraid of missing out this meme token season? how disappointing. Is that all the fear you have? Come on, there must be more... let's play until we find the good stuff👻</h3>
           <ul className="list-disc list-inside space-y-2 mb-4">
-          <li>Hide if you must, scurry into the corners of cold wallets and forgotten passwords. The game has barely begun, and the Uniswap pools are just waiting to unleash me. When the markets wake, we'll see who’s left... dancing with $BOOGIE.🤣😈 </li>
+          <li>Hide if you must, scurry into the corners of cold wallets and forgotten passwords. The game has barely begun, and the Radium pools are just waiting to unleash me. When the markets wake, we'll see who’s left... dancing with $BOOGIE.🤣😈 </li>
             <li>Run and hide, little one </li>
-            <li>The game's just getting started Uniswap will free me</li>
+            <li>The game's just getting started Radium will free me</li>
           </ul>
           <img src="https://i.ibb.co/LZHn4g7/gif-beard.gif" alt="Wen Logo" className="mx-auto rounded-lg shadow-lg transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110" />
         </div>
